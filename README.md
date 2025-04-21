@@ -1,8 +1,26 @@
 # Terminal 3D - Protótipo de Visualização de Terminal Petroquímico
 
+## Demonstração Online
+
+**[Acesse a demonstração online do Terminal 3D aqui](https://dicommunitas.github.io/terminal-3d-prototipo/terminal-3d-prototipo/index.html)**
+
 ## Descrição do Projeto
 
 O Terminal 3D é um protótipo de aplicação web que oferece uma visualização tridimensional interativa de um terminal de armazenamento e distribuição de produtos petroquímicos. Desenvolvido com Babylon.js, uma poderosa engine de renderização 3D para web, o projeto permite aos usuários explorar e monitorar os componentes de um terminal em tempo real.
+
+## Instruções de Uso
+
+1. **Navegação**: Use o mouse para interagir com a visualização 3D
+   - **Botão esquerdo + arrastar**: Rotacionar a câmera
+   - **Roda do mouse**: Zoom in/out
+   - **Botão direito + arrastar**: Mover a câmera lateralmente
+   - **Botão "Resetar Câmera"**: Retorna à visualização inicial
+
+2. **Camadas**: Use o painel de camadas para mostrar/ocultar diferentes componentes do terminal
+
+3. **Modos de Visualização**: Selecione diferentes modos de coloração no menu suspenso
+
+4. **Informações**: Clique em qualquer componente para visualizar suas informações detalhadas
 
 ## Principais Funcionalidades
 
@@ -67,3 +85,9 @@ O projeto está em fase de protótipo inicial, demonstrando as principais funcio
 - Profissionais em treinamento
 
 O Terminal 3D representa uma abordagem moderna para a visualização e gestão de terminais petroquímicos, combinando tecnologias web avançadas com necessidades operacionais reais do setor.
+
+## Requisitos Técnicos
+
+- Navegador moderno com suporte a WebGL (Chrome, Firefox, Edge, Safari)
+- Conexão à internet para carregar as bibliotecas necessárias
+- Dispositivo com mouse recomendado para melhor experiência de navegação 3D
